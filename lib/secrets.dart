@@ -1,3 +1,1 @@
-const openAIAPIKey =
-    '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';
-const geminiApiKey = 'AIzaSyBvjwTHB2Lw22f7xq0_N6Qel37P7gn2DV0';
+// add your own gemini credentials here
